@@ -1,3 +1,5 @@
 # this is a sample of .gitignore file
 # ignore bak file
 *.bak
+# ignore all the file under aa
+aa/*
