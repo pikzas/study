@@ -3,3 +3,4 @@
 *.bak
 # ignore all the file under aa
 aa/*
+bb/*
